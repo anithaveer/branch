@@ -1,6 +1,6 @@
 hi,
 
-this is a a2.txt under first branch
+this is a a2.txt under second branch
 
 thankyou!!!
 
